@@ -1,0 +1,11 @@
+id = "pico8"
+name = "Pico-8"
+version = "1.0.0"
+schema_version = 1
+authors = ["Marcelo de Gomensoro Malheiros"]
+description = "Pico-8 language support"
+repository = "https://github.com/mgmalheiros/zed-pico8"
+
+[grammars.pico8]
+repository = "https://github.com/mgmalheiros/tree-sitter-pico8"
+rev = "cfc71f1e53efa40f2fe4c5b86010ad2246476b95"
